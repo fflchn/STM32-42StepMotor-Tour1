@@ -10,8 +10,8 @@ Press Key2: The motor rotates 90 deg **clockwisely**
 ## Here are the connections:  
 KEY1 -> A0  KEY2 -> C13  
 ENA- -> GND ENA+ -> C4  
-DIR- -> GND DIR- -> C6  
-PUL- -> GND PUL- -> C7  
+DIR- -> GND DIR+ -> C6  
+PUL- -> GND PUL+ -> C7  
 The mircostep is set to 1600, and the current is set to 1A.  
 
 ![connections](https://user-images.githubusercontent.com/93332750/156009650-14ea09cc-3c1e-4cc9-a5b8-6b4981281222.png)  
