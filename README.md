@@ -29,3 +29,6 @@ Here are the answer.
 ![image](https://user-images.githubusercontent.com/93332750/156015411-737c0452-c4f8-48e5-981c-67d6adbd435a.png)
 
 Note that only 5 pulses are achieved by the above 10 toggles.
+
+## License 
+The project is licensed under the MIT License. Please see [LICENSE](https://github.com/liuyifanchn/Simulink-Model-for-EPS/blob/main/LICENSE) for details.
